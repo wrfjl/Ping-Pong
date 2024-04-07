@@ -1,7 +1,7 @@
 # Ping-Pong
 Game where u can try youe self in ping pong, without going outside
 
-As know it is 1vs1 game
+As u know it is 1vs1 game
 
 The game была написана on the Python
 
